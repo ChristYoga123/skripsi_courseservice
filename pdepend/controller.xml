@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics generated="2025-05-27T07:01:45" pdepend="@package_version@" ahh="2" andc="0" calls="39" ccn="10" ccn2="10" cloc="0" clsa="0" clsc="1" eloc="79" fanout="4" leafs="0" lloc="42" loc="95" maxDIT="2" ncloc="95" noc="1" nof="0" noi="0" nom="5" nop="1" roots="1">
+  <files>
+    <file name="D:\Kuliah\Project\course-service\app\Http\Controllers\KelasController.php" loc="95" cloc="0" eloc="79" lloc="42" ncloc="95"/>
+  </files>
+  <package name="App\Http\Controllers" noc="1" noi="0" nom="5" nof="0" cr="0.15" rcr="0.15">
+    <class name="KelasController" fqname="App\Http\Controllers\KelasController" start="12" end="94" loc="83" cloc="0" eloc="63" lloc="30" ncloc="83" dit="2" noam="5" nocc="0" noom="0" nom="5" cr="0.15" rcr="0.2775" ca="0" cbo="4" ce="4" impl="0" cis="5" csz="5" npm="5" vars="0" varsi="0" varsnp="0" wmc="10" wmci="10" wmcnp="10">
+      <file name="D:\Kuliah\Project\course-service\app\Http\Controllers\KelasController.php"/>
+      <method name="index" start="14" end="25" ccn="1" ccn2="1" loc="12" cloc="0" eloc="11" lloc="7" ncloc="12" npath="1" hnt="37" hnd="21" hv="162.51574464281" hd="9" hl="0.11111111111111" he="1462.6417017853" ht="81.257872321407" hb="0.042950746158922" hi="18.057304960313" mi="61.667875536433"/>
+      <method name="getKursusBySlug" start="27" end="36" ccn="2" ccn2="2" loc="10" cloc="0" eloc="7" lloc="4" ncloc="10" npath="2" hnt="29" hnd="18" hv="120.92782504183" hd="9" hl="0.11111111111111" he="1088.3504253764" ht="60.463912520914" hb="0.035268845710134" hi="13.436425004647" mi="66.714179770398"/>
+      <method name="checkIfKursusIsCreatedByUser" start="38" end="56" ccn="3" ccn2="3" loc="19" cloc="0" eloc="17" lloc="7" ncloc="19" npath="4" hnt="65" hnd="32" hv="325" hd="12.3" hl="0.08130081300813" he="3997.5" ht="222.08333333333" hb="0.083959735206099" hi="26.422764227642" mi="55.167282384897"/>
+      <method name="checkIfStudentIsEnrolledToCourse" start="58" end="80" ccn="3" ccn2="3" loc="23" cloc="0" eloc="19" lloc="8" ncloc="23" npath="4" hnt="66" hnd="32" hv="330" hd="12.3" hl="0.08130081300813" he="4059" ht="225.5" hb="0.084818667644733" hi="26.829268292683" mi="54.067138441116"/>
+      <method name="enrollStudentToCourse" start="82" end="93" ccn="1" ccn2="1" loc="12" cloc="0" eloc="9" lloc="4" ncloc="12" npath="1" hnt="40" hnd="24" hv="183.39850002885" hd="7.2" hl="0.13888888888889" he="1320.4692002077" ht="73.359400011538" hb="0.040120308376381" hi="25.472013892895" mi="63.201358283873"/>
+    </class>
+  </package>
+</metrics>
